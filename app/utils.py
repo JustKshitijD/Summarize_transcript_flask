@@ -1,4 +1,5 @@
 import google.generativeai as genai
+import os
 
 # Function to get a summary 
 def summarize_text(text, section, company):
