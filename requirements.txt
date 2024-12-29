@@ -1,0 +1,7 @@
+google-cloud-aiplatform
+pymupdf 
+requests
+google-generativeai
+PyPDF2
+pdfplumber
+flask
