@@ -3,7 +3,7 @@ import os
 
 # Function to get a summary 
 def summarize_text(text, section, company):
-    os.environ["API_KEY"]="AIzaSyC8NkRrznR8GKQuM2CPGn6MC4xP0mk-Na4"
+    os.environ["API_KEY"]=""                    # Insert your API key here
     if "API_KEY" not in os.environ:
         raise ValueError("API_KEY environment variable is not set.")
     # Set the environment variable
